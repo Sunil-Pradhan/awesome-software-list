@@ -7,6 +7,12 @@ A curated list of interesting and free software tools grouped by category. Most 
 * 🎥 [Screen Recording](#screen-recording)
 <!-- * [Branch and Merge](#Branch-merge) -->
 
+<ul>
+  <li>🎥 <a href="#screen-recording">Screen Recording</a></li>
+  <li>📝 <a href="#note-taking">Note Taking</a></li>
+  <li>🛠️ <a href="#developer-tools">Developer Tools</a></li>
+</ul>
+
 
 
 ## 🎥 Screen Recording
