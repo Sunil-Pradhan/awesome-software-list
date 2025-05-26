@@ -39,3 +39,10 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><a href="https://screenity.io/en/">screenity.io</a></td>
   </tr>
 </table>
+
+
+✅ How to Contribute
+Have a free tool you love? Feel free to submit a pull request or open an issue!
+
+📄 License
+This project is licensed under the MIT License.
