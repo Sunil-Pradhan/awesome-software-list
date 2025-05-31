@@ -74,7 +74,17 @@ A curated list of interesting and free software tools grouped by category. Most 
 	<tr>
     <td><strong>PicView</strong></td>
     <td>PicView is a fast, free, and customizable image viewer for Windows 10 and 11, supporting a wide range of formats like WEBP, GIF, SVG, PSD, and more. It offers features such as EXIF viewing, image editing, batch resizing, archive support, and a clean, ad-free interface with both portable and installable options.</td>
-    <td><a href="https://picview.org/  ">picview.org</a></td>
+    <td><a href="https://picview.org/">picview.org</a></td>
+  </tr>
+	<tr>
+    <td><strong>Caesium Image Compressor</strong></td>
+    <td>Caesium Image Compressor is a free, cross-platform tool that reduces image file sizes with minimal quality loss, supporting batch processing and offering both GUI and command-line interfaces. It's ideal for photographers, bloggers, and web users seeking efficient image optimization.</td>
+    <td><a href="https://saerasoft.com/caesium">saerasoft.com</a></td>
+  </tr>
+		<tr>
+    <td><strong>PhoXoSee</strong></td>
+    <td>PhoXoSee is a lightweight, fast image viewer designed for quick photo browsing, focusing on speed and simplicity without unnecessary editing or management features. It was created to efficiently handle large collections of images, especially for users who prefer minimalistic, high-performance software.</td>
+    <td><a href="https://phoxo.com/see/">phoxo.com</a></td>
   </tr>
 </table>
 
@@ -108,7 +118,7 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 </table>
 
-## 📝 Note-Taking
+## 📝 Note-Taking & Education Apps
 
 <table>
   <tr>
@@ -120,6 +130,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Joplin</strong></td>
     <td>Joplin is a free, open-source note-taking and to-do app available across multiple platforms (Windows, macOS, Linux, Android, iOS) with synchronization via services like Joplin Cloud, Dropbox, and OneDrive. It also offers a terminal app for advanced users.</td>
     <td><a href="https://joplinapp.org/">joplinapp.org</a></td>
+  </tr>
+	  <tr>
+    <td><strong>OpenBoard</strong></td>
+    <td>OpenBoard is a free, open-source interactive whiteboard software designed for teaching in schools and universities, supporting Windows, macOS, and Linux. It focuses on ease of use and core classroom functionalities, originally forked from Open-Sankoré and maintained by the Education Department of Geneva.</td>
+    <td><a href="https://openboard.ch/index.en.html">openboard.ch</a></td>
   </tr>
 </table>
 
@@ -170,6 +185,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>WizTree</strong></td>
     <td>WizTree is a fast disk space analyzer for Windows that scans drives up to 46x faster than alternatives like WinDirStat, using direct MFT reading for speed and accuracy. It visually displays file and folder sizes in a tree map, helping users quickly identify and remove large files.</td>
     <td><a href="https://diskanalyzer.com/">diskanalyzer.com</a></td>
+  </tr>
+		<tr>
+    <td><strong>FastCopy</strong></td>
+    <td>FastCopy is a high-speed file copy, move, and delete tool for Windows, designed to outperform built-in OS functions and similar tools like TeraCopy. It supports advanced features such as command-line operation, filtering, and network transfer optimization.</td>
+    <td><a href="https://fastcopy.jp/">fastcopy.jp</a></td>
   </tr>
 </table>
 
