@@ -68,9 +68,35 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 </table>
 
+## 🎧 Audio Editing
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Ocenaudio</strong></td>
+    <td>Ocenaudio is a free, cross-platform audio editor available for Windows, macOS, and Linux, offering a simple and intuitive interface with essential editing tools. It supports various audio formats and provides features like effects, filters, and real-time preview.</td>
+    <td><a href="https://www.ocenaudio.com/">ocenaudio.com</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>SoundSwitch</strong></td>
+    <td>SoundSwitch is a free Windows utility that lets you quickly switch between audio devices using customizable hotkeys, with support for both playback and recording devices. It also offers notification options, including toast notifications and custom sounds, to alert you when the active device changes.</td>
+    <td><a href="https://soundswitch.aaflalo.me/   ">soundswitch.aaflalo.me</a></td>
+  </tr>
+</table>
 
 ## 📝 Note-Taking
-
 
 <table>
   <tr>
@@ -82,6 +108,41 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Joplin</strong></td>
     <td>Joplin is a free, open-source note-taking and to-do app available across multiple platforms (Windows, macOS, Linux, Android, iOS) with synchronization via services like Joplin Cloud, Dropbox, and OneDrive. It also offers a terminal app for advanced users.</td>
     <td><a href="https://joplinapp.org/">joplinapp.org</a></td>
+  </tr>
+</table>
+
+## 🔐 Privacy & Security
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>TinyWall</strong></td>
+    <td>TinyWall is a free, lightweight, and non-intrusive firewall for Windows, offering secure operation with features like tampering protection, UWP support, and no resource-heavy components. It’s user-friendly, safe, and completely free of ads, telemetry, or artificial limitations.</td>
+    <td><a href="https://tinywall.pados.hu/">tinywall.pados.hu</a></td>
+  </tr>
+</table>
+
+## 🖥️ System Apps
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>HWiNFO</strong></td>
+    <td>HWiNFO is a free, advanced hardware monitoring and diagnostics tool for Windows, widely used for real-time system analysis and fault detection in extreme environments, including by NASA for radiation testing. It supports comprehensive monitoring of components like CPUs, GPUs, and storage devices.</td>
+    <td><a href="https://www.hwinfo.com/">hwinfo.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>System Informer</strong></td>
+    <td>System Informer is a free, open-source system monitoring and process explorer tool for Windows, offering detailed insights into running processes, services, and system performance. It provides advanced features like GPU monitoring, network activity tracking, and hardware diagnostics.</td>
+    <td><a href="https://systeminformer.sourceforge.io/">systeminformer.sourceforge.io</a></td>
   </tr>
 </table>
 
