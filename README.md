@@ -36,6 +36,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Chrome extension for screen recording with annotation features. Great for tutorials.</td>
     <td><a href="https://screenity.io/en/">screenity.io</a></td>
   </tr>
+	<tr>
+    <td><strong>ActivePresenter</strong></td>
+    <td>Chrome extension for screen recording with annotation features. Great for tutorials.</td>
+    <td><a href="https://atomisystems.com/activepresenter/free-edition/   ">atomisystems.com</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -68,7 +73,7 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 </table>
 
-## 🎧 Audio Editing
+## 🎧 Music Tools & Audio Editing
 
 <table>
   <tr>
@@ -84,7 +89,12 @@ A curated list of interesting and free software tools grouped by category. Most 
 	<tr>
     <td><strong>SoundSwitch</strong></td>
     <td>SoundSwitch is a free Windows utility that lets you quickly switch between audio devices using customizable hotkeys, with support for both playback and recording devices. It also offers notification options, including toast notifications and custom sounds, to alert you when the active device changes.</td>
-    <td><a href="https://soundswitch.aaflalo.me/   ">soundswitch.aaflalo.me</a></td>
+    <td><a href="https://soundswitch.aaflalo.me/">soundswitch.aaflalo.me</a></td>
+  </tr>
+	<tr>
+    <td><strong>Harmonoid</strong></td>
+    <td>Harmonoid is a free, cross-platform music player and library manager that offers a beautiful interface, support for various file formats via FFmpeg/mpv, and features like playlists, lyrics display, and Discord Rich Presence. It's available for Windows, macOS, Linux, and Android with an emphasis on performance and design.</td>
+    <td><a href="https://harmonoid.com/">harmonoid.com</a></td>
   </tr>
 </table>
 
@@ -118,7 +128,7 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 </table>
 
-## 🖥️ System Apps
+## 🛠️ System Apps
 
 <table>
   <tr>
@@ -135,6 +145,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>System Informer</strong></td>
     <td>System Informer is a free, open-source system monitoring and process explorer tool for Windows, offering detailed insights into running processes, services, and system performance. It provides advanced features like GPU monitoring, network activity tracking, and hardware diagnostics.</td>
     <td><a href="https://systeminformer.sourceforge.io/">systeminformer.sourceforge.io</a></td>
+  </tr>
+</table>
+
+## 🖥️🐧 Operating System
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>AnduinOS</strong></td>
+    <td>AnduinOS is a lightweight, Ubuntu-based Linux distribution designed for developers transitioning from Windows, offering a familiar GNOME desktop environment, privacy-focused design, and compatibility with Ubuntu's package ecosystem. It features a 2GB ISO, Flatpak support, and comes in LTS and Standard versions for stability or cutting-edge features.</td>
+    <td><a href="https://www.anduinos.com/">anduinos.com</a></td>
   </tr>
 </table>
 
