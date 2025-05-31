@@ -13,6 +13,8 @@ A curated list of interesting and free software tools grouped by category. Most 
 	- [🔐 Privacy \& Security](#-privacy--security)
 	- [🛠️ System Apps](#️-system-apps)
 	- [🖥️🐧 Operating System](#️-operating-system)
+	- [✅ How to Contribute](#-how-to-contribute)
+	- [📄 License](#-license)
 
 
 ## 🎥 Screen Recording
@@ -126,17 +128,17 @@ A curated list of interesting and free software tools grouped by category. Most 
 	<tr>
     <td><strong>Just Color Picker</strong></td>
     <td>A free, lightweight color picker tool for designers and digital artists to grab and save color values.</td>
-    <td><a href="https://annystudio.com/software/colorpicker/">/annystudio.com</a></td>
+    <td><a href="https://annystudio.com/software/colorpicker/">annystudio.com</a></td>
   </tr>
 	<tr>
     <td><strong>LeafView</strong></td>
     <td>Minimalist image viewer based on Leaflet.js and Electron.</td>
-    <td><a href="https://github.com/sprout2000/leafview">/sprout2000</a></td>
+    <td><a href="https://github.com/sprout2000/leafview">sprout2000</a></td>
   </tr>
 	<tr>
     <td><strong>WinSnap (Shareware)</strong></td>
     <td>A screen capture and annotation tool for Windows that supports transparency, shadows, and quick editing.</td>
-    <td><a href="https://www.ntwind.com/software/winsnap.html">/ntwind.com</a></td>
+    <td><a href="https://www.ntwind.com/software/winsnap.html">ntwind.com</a></td>
   </tr>
 </table>
 
@@ -300,8 +302,8 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 </table>
 
-✅ How to Contribute
+## ✅ How to Contribute
 Have a free tool you love? Feel free to submit a pull request or open an issue!
 
-📄 License
-This project is licensed under the MIT License.
+## 📄 License
+This project is licensed under the **MIT License**.
