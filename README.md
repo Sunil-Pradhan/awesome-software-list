@@ -49,7 +49,7 @@ A curated list of interesting and free software tools grouped by category. Most 
   <tr>
     <td><strong>PhotoDemon</strong></td>
     <td>PhotoDemon is a free, portable, open-source photo editor for Windows, offering over 200 professional-grade tools like layers, content-aware fill, and support for formats like PSD, PSP, and GIMP. It features a customizable interface, real-time previews, and runs without installation from USB drives.</td>
-    <td><a href=" https://photodemon.org/">photodemon.org</a></td>
+    <td><a href="https://photodemon.org/">photodemon.org</a></td>
   </tr>
   <tr>
     <td><strong>Converseen</strong></td>
@@ -60,6 +60,28 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Photo Variants</strong></td>
     <td>Photo Variants is a graphic design and photo editing tool tailored for creating icons, UI elements, and image variations within a single project. It streamlines workflow by allowing multiple design versions without separate folders, ideal for professionals needing efficiency and consistency.</td>
     <td><a href="https://www.photovariants.com/">photovariants.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>PicView</strong></td>
+    <td>PicView is a fast, free, and customizable image viewer for Windows 10 and 11, supporting a wide range of formats like WEBP, GIF, SVG, PSD, and more. It offers features such as EXIF viewing, image editing, batch resizing, archive support, and a clean, ad-free interface with both portable and installable options.</td>
+    <td><a href="https://picview.org/  ">picview.org</a></td>
+  </tr>
+</table>
+
+
+## 📝 Note-Taking
+
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Joplin</strong></td>
+    <td>Joplin is a free, open-source note-taking and to-do app available across multiple platforms (Windows, macOS, Linux, Android, iOS) with synchronization via services like Joplin Cloud, Dropbox, and OneDrive. It also offers a terminal app for advanced users.</td>
+    <td><a href="https://joplinapp.org/">joplinapp.org</a></td>
   </tr>
 </table>
 
