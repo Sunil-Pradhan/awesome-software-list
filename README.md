@@ -41,6 +41,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Chrome extension for screen recording with annotation features. Great for tutorials.</td>
     <td><a href="https://atomisystems.com/activepresenter/free-edition/   ">atomisystems.com</a></td>
   </tr>
+	<tr>
+    <td><strong>Any Video Converter Free</strong></td>
+    <td>Any Video Converter Free is a video conversion tool that allows users to convert videos to popular formats like 4K, x264, and x265 with customizable options. It also offers features like AI video upscaling for enhanced quality.</td>
+    <td><a href="https://www.any-video-converter.com/en8/for_video_free/   ">any-video-converter.com</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -96,6 +101,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Harmonoid is a free, cross-platform music player and library manager that offers a beautiful interface, support for various file formats via FFmpeg/mpv, and features like playlists, lyrics display, and Discord Rich Presence. It's available for Windows, macOS, Linux, and Android with an emphasis on performance and design.</td>
     <td><a href="https://harmonoid.com/">harmonoid.com</a></td>
   </tr>
+		<tr>
+    <td><strong>mp3DirectCut</strong></td>
+    <td>mp3DirectCut is a fast and lightweight audio editor for MP3 and AAC files, offering lossless editing features like cut, copy, paste, fading, normalization, and batch processing without re-encoding. It supports direct editing, cue sheets, and works on Windows (and Linux with Wine).</td>
+    <td><a href="https://mpesch3.de/">mpesch3.de</a></td>
+  </tr>
 </table>
 
 ## 📝 Note-Taking
@@ -145,6 +155,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>System Informer</strong></td>
     <td>System Informer is a free, open-source system monitoring and process explorer tool for Windows, offering detailed insights into running processes, services, and system performance. It provides advanced features like GPU monitoring, network activity tracking, and hardware diagnostics.</td>
     <td><a href="https://systeminformer.sourceforge.io/">systeminformer.sourceforge.io</a></td>
+  </tr>
+	<tr>
+    <td><strong>UniGetUI</strong></td>
+    <td>UniGetUI is a free, open-source package manager for Windows that simplifies installing and managing apps from sources like Winget, Chocolatey, and NPM. It offers a user-friendly interface, portable mode, and support for both x86 and ARM systems.</td>
+    <td><a href="https://www.marticliment.com/wingetui/">marticliment.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>SmartFTP (Shareware)</strong></td>
+    <td>SmartFTP is a feature-rich FTP client for Windows, offering secure file transfers via FTP, SFTP, and WebDAV, with support for cloud services like Google Drive and Amazon S3. It includes advanced tools like multi-threaded transfers, remote editing, and synchronization.</td>
+    <td><a href="https://www.smartftp.com/en-us/">smartftp.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>WizTree</strong></td>
+    <td>WizTree is a fast disk space analyzer for Windows that scans drives up to 46x faster than alternatives like WinDirStat, using direct MFT reading for speed and accuracy. It visually displays file and folder sizes in a tree map, helping users quickly identify and remove large files.</td>
+    <td><a href="https://diskanalyzer.com/">diskanalyzer.com</a></td>
   </tr>
 </table>
 
