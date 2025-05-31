@@ -83,10 +83,45 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Caesium Image Compressor is a free, cross-platform tool that reduces image file sizes with minimal quality loss, supporting batch processing and offering both GUI and command-line interfaces. It's ideal for photographers, bloggers, and web users seeking efficient image optimization.</td>
     <td><a href="https://saerasoft.com/caesium">saerasoft.com</a></td>
   </tr>
-		<tr>
+	<tr>
     <td><strong>PhoXoSee</strong></td>
     <td>PhoXoSee is a lightweight, fast image viewer designed for quick photo browsing, focusing on speed and simplicity without unnecessary editing or management features. It was created to efficiently handle large collections of images, especially for users who prefer minimalistic, high-performance software.</td>
     <td><a href="https://phoxo.com/see/">phoxo.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>Photopea</strong></td>
+    <td>A free, online Photoshop alternative that supports PSD files and advanced image editing directly in your browser.</td>
+    <td><a href="https://www.photopea.com/">photopea.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>PhotoDemon</strong></td>
+    <td>A lightweight, portable image editor for Windows with powerful batch processing and pro-grade tools.</td>
+    <td><a href="https://photodemon.org/">photodemon.org</a></td>
+  </tr>
+	<tr>
+    <td><strong>Krita</strong></td>
+    <td>A professional, open-source painting program made for digital artists, illustrators, and concept designers.</td>
+    <td><a href="https://krita.org/en/">krita.org</a></td>
+  </tr>
+	<tr>
+    <td><strong>FastStone Image Viewer</strong></td>
+    <td>A fast, user-friendly image browser and editor with slideshow and basic editing features.</td>
+    <td><a href="https://www.faststone.org/FSViewerDetail.htm">faststone.org</a></td>
+  </tr>
+	<tr>
+    <td><strong>Image Viewer</strong></td>
+    <td>A simple, cross-platform image viewer built with Electron, ideal for quick and minimal image browsing.</td>
+    <td><a href="https://github.com/AlienCowEatCake/ImageViewer/">AlienCowEatCake</a></td>
+  </tr>
+	<tr>
+    <td><strong>Artweaver</strong></td>
+    <td>A Windows painting tool with natural brush effects and support for layers and collaborative features.</td>
+    <td><a href="https://www.artweaver.de/en">artweaver.de</a></td>
+  </tr>
+	<tr>
+    <td><strong>Just Color Picker</strong></td>
+    <td>A free, lightweight color picker tool for designers and digital artists to grab and save color values.</td>
+    <td><a href="https://annystudio.com/software/colorpicker/">/annystudio.com</a></td>
   </tr>
 </table>
 
