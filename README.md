@@ -4,14 +4,14 @@ A curated list of interesting and free software tools grouped by category. Most 
 
 ## Table of Contents
 
-- 🎥 [Screen Recording](#screen-recording)
-<!-- * [Branch and Merge](#Branch-merge) -->
+- [🎥 Screen Recording](#screen-recording)
+- [✏️ Image Tools & Photo Editing](#image-tools--photo-editing)
+- [🎧 Music Tools & Audio Editing](#music-tools--audio-editing)
+- [📝 Note-Taking & Education Apps](#note-taking--education-apps)
+- [🔐 Privacy & Security](#privacy--security)
+- [🛠️ System Apps](#system-apps)
+- [🖥️🐧 Operating System](#operating-system)
 
-<ul>
-  <li>🎥 <a href="#screen-recording">Screen Recording</a></li>
-  <li>📝 <a href="#note-taking">Note Taking</a></li>
-  <li>🛠️ <a href="#developer-tools">Developer Tools</a></li>
-</ul>
 
 ## 🎥 Screen Recording
 
