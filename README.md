@@ -46,7 +46,12 @@ A curated list of interesting and free software tools grouped by category. Most 
 	<tr>
     <td><strong>Any Video Converter Free</strong></td>
     <td>Any Video Converter Free is a video conversion tool that allows users to convert videos to popular formats like 4K, x264, and x265 with customizable options. It also offers features like AI video upscaling for enhanced quality.</td>
-    <td><a href="https://www.any-video-converter.com/en8/for_video_free/   ">any-video-converter.com</a></td>
+    <td><a href="https://www.any-video-converter.com/en8/for_video_free/">any-video-converter.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>ShanaEncoder</strong></td>
+    <td>A free, high-performance video encoder for Windows that supports a wide range of formats and settings</td>
+    <td><a href="https://shana.pe.kr/shanaencoder_summary">shana.pe.kr</a></td>
   </tr>
 </table>
 
@@ -123,6 +128,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free, lightweight color picker tool for designers and digital artists to grab and save color values.</td>
     <td><a href="https://annystudio.com/software/colorpicker/">/annystudio.com</a></td>
   </tr>
+	<tr>
+    <td><strong>LeafView</strong></td>
+    <td>Minimalist image viewer based on Leaflet.js and Electron.</td>
+    <td><a href="https://github.com/sprout2000/leafview">/sprout2000</a></td>
+  </tr>
+	<tr>
+    <td><strong>WinSnap (Shareware)</strong></td>
+    <td>A screen capture and annotation tool for Windows that supports transparency, shadows, and quick editing.</td>
+    <td><a href="https://www.ntwind.com/software/winsnap.html">/ntwind.com</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -188,6 +203,41 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>TinyWall is a free, lightweight, and non-intrusive firewall for Windows, offering secure operation with features like tampering protection, UWP support, and no resource-heavy components. It’s user-friendly, safe, and completely free of ads, telemetry, or artificial limitations.</td>
     <td><a href="https://tinywall.pados.hu/">tinywall.pados.hu</a></td>
   </tr>
+  <tr>
+    <td><strong>KeePass Password Safe</strong></td>
+    <td>A free, open-source password manager that stores and encrypts your credentials securely in a local database.</td>
+    <td><a href="https://keepass.info/">keepass.info</a></td>
+  </tr>
+  <tr>
+    <td><strong>WebSite-Watcher (Shareware)</strong></td>
+    <td>A powerful tool to monitor websites for updates, changes, or new content automatically.</td>
+    <td><a href="https://www.aignes.com/">aignes.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>NetLimiter (Shareware)</strong></td>
+    <td>A network traffic control tool for Windows that lets you monitor and limit bandwidth usage per application.</td>
+    <td><a href="https://www.netlimiter.com/">netlimiter.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Fort Firewall</strong></td>
+    <td>A free, open-source Windows firewall app that allows you to block internet access for selected applications.</td>
+    <td><a href="https://github.com/tnodir/fort">tnodir</a></td>
+  </tr>
+  <tr>
+    <td><strong>NetWorx (Shareware)</strong></td>
+    <td>A simple tool to track and visualize internet usage, monitor bandwidth, and test network speed.</td>
+    <td><a href="https://www.softperfect.com/products/networx/">softperfect.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Wireshark</strong></td>
+    <td>A widely used, open-source network protocol analyzer for capturing and inspecting network packets in real time.</td>
+    <td><a href="https://www.wireshark.org/">wireshark.org/a></td>
+  </tr>
+  <tr>
+    <td><strong>Free Download Manager </strong></td>
+    <td>A free and versatile download accelerator and organizer that supports torrents and video downloads.</td>
+    <td><a href="https://www.freedownloadmanager.org/">freedownloadmanager.org</a></td>
+  </tr>
 </table>
 
 ## 🛠️ System Apps
@@ -223,10 +273,15 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>WizTree is a fast disk space analyzer for Windows that scans drives up to 46x faster than alternatives like WinDirStat, using direct MFT reading for speed and accuracy. It visually displays file and folder sizes in a tree map, helping users quickly identify and remove large files.</td>
     <td><a href="https://diskanalyzer.com/">diskanalyzer.com</a></td>
   </tr>
-		<tr>
+	<tr>
     <td><strong>FastCopy</strong></td>
     <td>FastCopy is a high-speed file copy, move, and delete tool for Windows, designed to outperform built-in OS functions and similar tools like TeraCopy. It supports advanced features such as command-line operation, filtering, and network transfer optimization.</td>
     <td><a href="https://fastcopy.jp/">fastcopy.jp</a></td>
+  </tr>
+	<tr>
+    <td><strong>Fan Control</strong></td>
+    <td>A customizable, open-source app for managing fan speeds and temperature control on Windows PCs.</td>
+    <td><a href="https://getfancontrol.com/">getfancontrol.com</a></td>
   </tr>
 </table>
 
