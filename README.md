@@ -2,9 +2,9 @@
 
 A curated list of interesting and free software tools grouped by category. Most of these are open-source or have generous free versions. Ideal for developers, content creators, students, and productivity lovers!
 
-
 ## Table of Contents
-* 🎥 [Screen Recording](#screen-recording)
+
+- 🎥 [Screen Recording](#screen-recording)
 <!-- * [Branch and Merge](#Branch-merge) -->
 
 <ul>
@@ -12,8 +12,6 @@ A curated list of interesting and free software tools grouped by category. Most 
   <li>📝 <a href="#note-taking">Note Taking</a></li>
   <li>🛠️ <a href="#developer-tools">Developer Tools</a></li>
 </ul>
-
-
 
 ## 🎥 Screen Recording
 
@@ -40,6 +38,30 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 </table>
 
+## ✏️ Image Tools & Photo Editing
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>PhotoDemon</strong></td>
+    <td>PhotoDemon is a free, portable, open-source photo editor for Windows, offering over 200 professional-grade tools like layers, content-aware fill, and support for formats like PSD, PSP, and GIMP. It features a customizable interface, real-time previews, and runs without installation from USB drives.</td>
+    <td><a href=" https://photodemon.org/">photodemon.org</a></td>
+  </tr>
+  <tr>
+    <td><strong>Converseen</strong></td>
+    <td>Converseen is a free, cross-platform batch image processor that supports over 100 formats, allowing users to convert, resize, rotate, flip, and rename images easily. It also enables converting entire PDFs into images and extracting images from ICO files, all with a user-friendly interface.</td>
+    <td><a href="https://converseen.fasterland.net/">converseen.fasterland.net</a></td>
+  </tr>
+	<tr>
+    <td><strong>Photo Variants</strong></td>
+    <td>Photo Variants is a graphic design and photo editing tool tailored for creating icons, UI elements, and image variations within a single project. It streamlines workflow by allowing multiple design versions without separate folders, ideal for professionals needing efficiency and consistency.</td>
+    <td><a href="https://www.photovariants.com/">photovariants.com</a></td>
+  </tr>
+</table>
 
 ✅ How to Contribute
 Have a free tool you love? Feel free to submit a pull request or open an issue!
