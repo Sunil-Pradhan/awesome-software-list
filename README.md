@@ -14,6 +14,7 @@ A curated list of interesting and free software tools grouped by category. Most 
 	- [🛠️ System Apps](#️-system-apps)
 	- [🖥️🐧 Operating System](#️-operating-system)
 	- [📄 PDF Tools](#-pdf-tools)
+	- [🌐 Browsers](#-browsers)
 	- [✅ How to Contribute](#-how-to-contribute)
 	- [📄 License](#-license)
 
@@ -140,6 +141,31 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>WinSnap (Shareware)</strong></td>
     <td>A screen capture and annotation tool for Windows that supports transparency, shadows, and quick editing.</td>
     <td><a href="https://www.ntwind.com/software/winsnap.html">ntwind.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>XnConvert</strong></td>
+    <td>A free batch image converter and resizer that supports hundreds of formats and editing actions.</td>
+    <td><a href="https://www.xnview.com/en/xnconvert/">xnview.com</a></td>
+  </tr>
+	<tr>
+    <td><strong>PicPick</strong></td>
+    <td> A full-featured screen capture tool with built-in editor, color picker, ruler, and more.</td>
+    <td><a href="https://picpick.app/en/">picpick.app</a></td>
+  </tr>
+	<tr>
+    <td><strong>FastStone Image Viewer</strong></td>
+    <td>A fast and user-friendly image viewer with basic editing, slideshow, and batch conversion features.</td>
+    <td><a href="https://www.faststone.org/FSViewerDetail.htm">faststone.org</a></td>
+  </tr>
+	<tr>
+    <td><strong>FastStone Capture (Shareware)</strong></td>
+    <td>A lightweight yet powerful screen capture and screen recording tool for Windows.</td>
+    <td><a href="https://www.faststone.org/FSCaptureDetail.htm">faststone.org</a></td>
+  </tr>
+	<tr>
+    <td><strong>Pinga</strong></td>
+    <td>A simple tool to compress PNG and JPEG images offline without quality loss.</td>
+    <td><a href="https://css-ig.net/pinga">css-ig.net</a></td>
   </tr>
 </table>
 
@@ -306,6 +332,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>AnduinOS is a lightweight, Ubuntu-based Linux distribution designed for developers transitioning from Windows, offering a familiar GNOME desktop environment, privacy-focused design, and compatibility with Ubuntu's package ecosystem. It features a 2GB ISO, Flatpak support, and comes in LTS and Standard versions for stability or cutting-edge features.</td>
     <td><a href="https://www.anduinos.com/">anduinos.com</a></td>
   </tr>
+	<tr>
+    <td><strong>Zorin OS</strong></td>
+    <td>A beginner-friendly Linux distribution designed to look familiar to Windows users and run efficiently.</td>
+    <td><a href="https://zorin.com/os/">zorin.com</a></td>
+  </tr>
 </table>
 
 
@@ -336,6 +367,36 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>PDF24 Creator</strong></td>
     <td>A free tool for creating, editing, merging, and converting PDF files with a user-friendly interface.</td>
     <td><a href="https://www.pdf24.org/en/">pdf24.org</a></td>
+  </tr>
+</table>
+
+## 🌐 Browsers
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>LibreWolf</strong></td>
+    <td>A privacy-focused Firefox fork with enhanced security settings and no telemetry.</td>
+    <td><a href="https://librewolf.net/">librewolf.net</a></td>
+  </tr>
+  <tr>
+    <td><strong>DuckDuckGo</strong></td>
+    <td>A privacy-centered search engine and browser that blocks trackers and doesn’t log your searches.</td>
+    <td><a href="https://duckduckgo.com/">duckduckgo.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Arc</strong></td>
+    <td>A modern browser built for productivity with a sidebar-based interface and multi-account spaces.</td>
+    <td><a href="https://arc.net/">arc.net</a></td>
+  </tr>
+  <tr>
+    <td><strong>Tor Browser</strong></td>
+    <td>A secure browser that routes traffic through the Tor network to anonymize your internet activity.</td>
+    <td><a href="https://www.torproject.org/download/">torproject.org</a></td>
   </tr>
 </table>
 
