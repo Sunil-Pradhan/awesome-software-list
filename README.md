@@ -54,8 +54,13 @@ A curated list of interesting and free software tools grouped by category. Most 
   </tr>
 	<tr>
     <td><strong>ShanaEncoder</strong></td>
-    <td>A free, high-performance video encoder for Windows that supports a wide range of formats and settings</td>
+    <td>A free, high-performance video encoder for Windows that supports a wide range of formats and settings.</td>
     <td><a href="https://shana.pe.kr/shanaencoder_summary">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Shutter Encoder</strong></td>
+    <td>A free, powerful media conversion tool for video, audio, and images, widely used for transcoding, cutting, and encoding.</td>
+    <td><a href="https://www.shutterencoder.com/">Link</a></td>
   </tr>
 </table>
 
@@ -217,10 +222,15 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Joplin is a free, open-source note-taking and to-do app available across multiple platforms (Windows, macOS, Linux, Android, iOS) with synchronization via services like Joplin Cloud, Dropbox, and OneDrive. It also offers a terminal app for advanced users.</td>
     <td><a href="https://joplinapp.org/">Link</a></td>
   </tr>
-	  <tr>
+	<tr>
     <td><strong>OpenBoard</strong></td>
     <td>OpenBoard is a free, open-source interactive whiteboard software designed for teaching in schools and universities, supporting Windows, macOS, and Linux. It focuses on ease of use and core classroom functionalities, originally forked from Open-Sankoré and maintained by the Education Department of Geneva.</td>
     <td><a href="https://openboard.ch/index.en.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Astel</strong></td>
+    <td>Astel is a password management software which allows allows you to manage and control your passwords in a strong and secure way with AES-256.</td>
+    <td><a href="https://www.turkaysoftware.com/astel">Link</a></td>
   </tr>
 </table>
 
@@ -265,10 +275,10 @@ A curated list of interesting and free software tools grouped by category. Most 
   <tr>
     <td><strong>Wireshark</strong></td>
     <td>A widely used, open-source network protocol analyzer for capturing and inspecting network packets in real time.</td>
-    <td><a href="https://www.wireshark.org/">Link/a></td>
+    <td><a href="https://www.wireshark.org/">Link</a></td>
   </tr>
   <tr>
-    <td><strong>Free Download Manager </strong></td>
+    <td><strong>Free Download Manager</strong></td>
     <td>A free and versatile download accelerator and organizer that supports torrents and video downloads.</td>
     <td><a href="https://www.freedownloadmanager.org/">Link</a></td>
   </tr>
@@ -316,6 +326,46 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Fan Control</strong></td>
     <td>A customizable, open-source app for managing fan speeds and temperature control on Windows PCs.</td>
     <td><a href="https://getfancontrol.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>RSS Guard</strong></td>
+    <td>A simple, customizable RSS/Atom feed reader that supports local and cloud-based feed services.</td>
+    <td><a href="https://github.com/martinrotter/rssguard">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Microsoft PC Manager</strong></td>
+    <td>A system utility by Microsoft to boost performance, clean junk files, and manage startup apps on Windows.</td>
+    <td><a href="https://pcmanager.microsoft.com/en-us">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Glow</strong></td>
+    <td>Glow is a system analysis software which shows the hardware and software features of your computer in detail.</td>
+    <td><a href="https://www.turkaysoftware.com/glow">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>WinToUSB</strong></td>
+    <td>A Windows tool for creating bootable USB drives from ISO files or cloning existing installations.</td>
+    <td><a href="https://www.easyuefi.com/wintousb/index.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Rufus</strong></td>
+    <td> A free and fast utility to create bootable USB drives for installing or running operating systems.</td>
+    <td><a href="https://rufus.ie/en/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Inno Setup</strong></td>
+    <td>A free script-driven Windows installer creator known for simplicity and flexibility.</td>
+    <td><a href="https://jrsoftware.org/isinfo.php">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>FreeOffice</strong></td>
+    <td>A free, fully-featured office suite compatible with Microsoft Office formats, available for Windows, Linux, and Android.</td>
+    <td><a href="https://www.freeoffice.com/en/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Bing Wallpaper</strong></td>
+    <td>A Microsoft app that sets your desktop wallpaper to the daily Bing image, automatically refreshing it.</td>
+    <td><a href="https://www.bing.com/apps/wallpaper?pc=w011&brand=bing">Link</a></td>
   </tr>
 </table>
 
@@ -367,6 +417,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>PDF24 Creator</strong></td>
     <td>A free tool for creating, editing, merging, and converting PDF files with a user-friendly interface.</td>
     <td><a href="https://www.pdf24.org/en/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Sigil</strong></td>
+    <td>A free, open-source ePub eBook editor with WYSIWYG and code editing modes.</td>
+    <td><a href="https://sigil-ebook.com/">Link</a></td>
   </tr>
 </table>
 
