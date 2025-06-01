@@ -13,6 +13,7 @@ A curated list of interesting and free software tools grouped by category. Most 
 	- [🔐 Privacy \& Security](#-privacy--security)
 	- [🛠️ System Apps](#️-system-apps)
 	- [🖥️🐧 Operating System](#️-operating-system)
+	- [📄 PDF Tools](#-pdf-tools)
 	- [✅ How to Contribute](#-how-to-contribute)
 	- [📄 License](#-license)
 
@@ -165,10 +166,15 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Harmonoid is a free, cross-platform music player and library manager that offers a beautiful interface, support for various file formats via FFmpeg/mpv, and features like playlists, lyrics display, and Discord Rich Presence. It's available for Windows, macOS, Linux, and Android with an emphasis on performance and design.</td>
     <td><a href="https://harmonoid.com/">harmonoid.com</a></td>
   </tr>
-		<tr>
+	<tr>
     <td><strong>mp3DirectCut</strong></td>
     <td>mp3DirectCut is a fast and lightweight audio editor for MP3 and AAC files, offering lossless editing features like cut, copy, paste, fading, normalization, and batch processing without re-encoding. It supports direct editing, cue sheets, and works on Windows (and Linux with Wine).</td>
     <td><a href="https://mpesch3.de/">mpesch3.de</a></td>
+  </tr>
+	<tr>
+    <td><strong>FL Studio (Shareware)</strong></td>
+    <td>A professional music production software for composing, recording, mixing, and mastering tracks.</td>
+    <td><a href="https://www.image-line.com/">image-line.com</a></td>
   </tr>
 </table>
 
@@ -299,6 +305,37 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>AnduinOS</strong></td>
     <td>AnduinOS is a lightweight, Ubuntu-based Linux distribution designed for developers transitioning from Windows, offering a familiar GNOME desktop environment, privacy-focused design, and compatibility with Ubuntu's package ecosystem. It features a 2GB ISO, Flatpak support, and comes in LTS and Standard versions for stability or cutting-edge features.</td>
     <td><a href="https://www.anduinos.com/">anduinos.com</a></td>
+  </tr>
+</table>
+
+
+## 📄 PDF Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Master PDF Editor (Shareware)</strong></td>
+    <td>A powerful PDF editing tool for creating, editing, and annotating PDF documents.</td>
+    <td><a href="https://code-industry.net/masterpdfeditor/">code-industry.net</a></td>
+  </tr>
+  <tr>
+    <td><strong>PicoPDF</strong></td>
+    <td>A lightweight PDF editor for making small text or form field edits in PDF files.</td>
+    <td><a href="https://www.nchsoftware.com/picopdf/index.html">nchsoftware.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Foxit PDF Reader</strong></td>
+    <td>A fast, feature-rich PDF reader with annotation, form-filling, and collaboration tools.</td>
+    <td><a href="https://www.foxit.com/pdf-reader/">foxit.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>PDF24 Creator</strong></td>
+    <td>A free tool for creating, editing, merging, and converting PDF files with a user-friendly interface.</td>
+    <td><a href="https://www.pdf24.org/en/">pdf24.org</a></td>
   </tr>
 </table>
 
