@@ -62,6 +62,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free, powerful media conversion tool for video, audio, and images, widely used for transcoding, cutting, and encoding.</td>
     <td><a href="https://www.shutterencoder.com/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Videomass</strong></td>
+    <td>A cross-platform GUI for FFmpeg that lets you batch convert, encode, and process video and audio files.</td>
+    <td><a href="https://jeanslack.github.io/Videomass/">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -366,6 +371,26 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Bing Wallpaper</strong></td>
     <td>A Microsoft app that sets your desktop wallpaper to the daily Bing image, automatically refreshing it.</td>
     <td><a href="https://www.bing.com/apps/wallpaper?pc=w011&brand=bing">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Ghost Downloader</strong></td>
+    <td>A fast and lightweight download manager focused on simplicity and efficiency for bulk file downloading.</td>
+    <td><a href="https://www.gd3.top/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>WebChangeMonitor</strong></td>
+    <td>A simple tool to monitor web pages for content changes and notify users when updates occur.</td>
+    <td><a href="https://sourceforge.net/projects/webchangemon/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>HTTrack</strong></td>
+    <td>A free offline browser tool that allows you to download entire websites for local viewing.</td>
+    <td><a href="https://www.httrack.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Cyotek WebCopy</strong></td>
+    <td> A free tool for copying full websites to your local hard drive, preserving structure and links.</td>
+    <td><a href="https://www.cyotek.com/cyotek-webcopy">Link</a></td>
   </tr>
 </table>
 
