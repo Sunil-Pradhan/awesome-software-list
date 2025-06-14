@@ -212,6 +212,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A professional music production software for composing, recording, mixing, and mastering tracks.</td>
     <td><a href="https://www.image-line.com/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Mixxx</strong></td>
+    <td>Free, open-source DJ software that offers real-time mixing, beatmatching, and support for various DJ controllers.</td>
+    <td><a href="https://mixxx.org/">Link</a></td>
+  </tr>
 </table>
 
 ## 📝 Note-Taking & Education Apps
@@ -392,6 +397,51 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td> A free tool for copying full websites to your local hard drive, preserving structure and links.</td>
     <td><a href="https://www.cyotek.com/cyotek-webcopy">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Hasleo Backup Suite Free</strong></td>
+    <td> A free backup and recovery solution for Windows, supporting system, disk, and file backups.</td>
+    <td><a href="https://www.easyuefi.com/backup-software/backup-suite-free.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>PrivaZer</strong></td>
+    <td>A privacy-focused PC cleaner that securely deletes traces of activity and optimizes system performance.</td>
+    <td><a href="https://privazer.com/en/index.php">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Trayy</strong></td>
+    <td>A minimalist system tray CPU temperature monitor for Windows with a sleek and simple UI.</td>
+    <td><a href="https://github.com/alirezagsm/Trayy">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>AB Download Manager</strong></td>
+    <td>A fast and easy-to-use download manager supporting video, music, and bulk file downloads.</td>
+    <td><a href="https://abdownloadmanager.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Microsoft PowerToys</strong></td>
+    <td>A collection of utilities for power users to enhance productivity and customize the Windows experience.</td>
+    <td><a href="https://apps.microsoft.com/detail/xp89dcgq3k6vld">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Sysinternals Suite</strong></td>
+    <td>A set of advanced system tools from Microsoft for monitoring, diagnosing, and managing Windows.</td>
+    <td><a href="https://apps.microsoft.com/detail/9p7knl5rwt25">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>DevToys</strong></td>
+    <td>A Swiss Army knife for developers offering tools like JSON formatting, text diff, hash generation, and more.</td>
+    <td><a href="https://apps.microsoft.com/detail/9pgcv4v3bk4w">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Universal Media Server</strong></td>
+    <td>A DLNA-compliant media server that streams audio, video, and images to devices on your network.</td>
+    <td><a href="https://www.universalmediaserver.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Thunderbird</strong></td>
+    <td>A free and open-source email client from Mozilla with robust features like tabbed email, calendar, and encryption.</td>
+    <td><a href="https://www.thunderbird.net/en-US/">Link</a></td>
+  </tr>
 </table>
 
 ## 🖥️🐧 Operating System
@@ -448,6 +498,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free, open-source ePub eBook editor with WYSIWYG and code editing modes.</td>
     <td><a href="https://sigil-ebook.com/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>PDF Arranger</strong></td>
+    <td>A small Python-Qt app to rearrange, merge, rotate, or split PDF files easily.</td>
+    <td><a href="https://github.com/pdfarranger/pdfarranger">Link</a></td>
+  </tr>
 </table>
 
 ## 🌐 Browsers
@@ -477,6 +532,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Tor Browser</strong></td>
     <td>A secure browser that routes traffic through the Tor network to anonymize your internet activity.</td>
     <td><a href="https://www.torproject.org/download/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Zen Browser</strong></td>
+    <td>A minimalist and privacy-friendly web browser designed for distraction-free and secure browsing.</td>
+    <td><a href="https://zen-browser.app/">Link</a></td>
   </tr>
 </table>
 
