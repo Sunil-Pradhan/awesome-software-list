@@ -237,6 +237,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A specialized waveform analysis and editing tool, commonly used in speech and sound research.</td>
     <td><a href="https://www-ie.meijo-u.ac.jp/~banno/spLibs/spwave/index.html">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Dopamine</strong></td>
+    <td>A modern and elegant music player for Windows that organizes and plays your music with a clean interface.</td>
+    <td><a href="https://github.com/digimezzo/dopamine">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Vitomu</strong></td>
+    <td>A minimal Windows app to extract audio from video files using FFmpeg, with a simple drag-and-drop interface.</td>
+    <td><a href="https://github.com/digimezzo/vitomu">Link</a></td>
+  </tr>
 </table>
 
 ## 📝 Note-Taking & Education Apps
@@ -266,6 +276,11 @@ A curated list of interesting and free software tools grouped by category. Most 
   	<td><strong>QOwnNotes</strong></td>
     <td>A plain-text note-taking app with markdown support and ownCloud/Nextcloud integration for syncing.</td>
     <td><a href="https://www.qownnotes.org/">Link</a></td>
+  </tr>
+	<tr>
+  	<td><strong>Knowte</strong></td>
+    <td>A simple and easy-to-use note-taking app for Windows that stores your notes locally.</td>
+    <td><a href="https://github.com/digimezzo/knowte">Link</a></td>
   </tr>
 </table>
 
