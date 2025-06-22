@@ -67,6 +67,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A cross-platform GUI for FFmpeg that lets you batch convert, encode, and process video and audio files.</td>
     <td><a href="https://jeanslack.github.io/Videomass/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>CapCut</strong></td>
+    <td>A free, user-friendly video editor for desktop with advanced features like keyframing, effects, and AI tools.</td>
+    <td><a href="https://www.capcut.com/tools/desktop-video-editor">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -177,6 +182,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A simple tool to compress PNG and JPEG images offline without quality loss.</td>
     <td><a href="https://css-ig.net/pinga">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>XnView</strong></td>
+    <td>A fast and versatile image viewer, organizer, and converter supporting hundreds of formats.</td>
+    <td><a href="https://www.xnview.com/en/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>XnView Shell Extension</strong></td>
+    <td>Adds right-click menu options in Windows Explorer for quick image preview, conversion, and resizing.</td>
+    <td><a href="https://www.xnview.com/en/xnshell/">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -217,6 +232,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Free, open-source DJ software that offers real-time mixing, beatmatching, and support for various DJ controllers.</td>
     <td><a href="https://mixxx.org/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Spwave</strong></td>
+    <td>A specialized waveform analysis and editing tool, commonly used in speech and sound research.</td>
+    <td><a href="https://www-ie.meijo-u.ac.jp/~banno/spLibs/spwave/index.html">Link</a></td>
+  </tr>
 </table>
 
 ## 📝 Note-Taking & Education Apps
@@ -238,9 +258,14 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><a href="https://openboard.ch/index.en.html">Link</a></td>
   </tr>
 	<tr>
-    <td><strong>Astel</strong></td>
+  	<td><strong>Astel</strong></td>
     <td>Astel is a password management software which allows allows you to manage and control your passwords in a strong and secure way with AES-256.</td>
     <td><a href="https://www.turkaysoftware.com/astel">Link</a></td>
+  </tr>
+	<tr>
+  	<td><strong>QOwnNotes</strong></td>
+    <td>A plain-text note-taking app with markdown support and ownCloud/Nextcloud integration for syncing.</td>
+    <td><a href="https://www.qownnotes.org/">Link</a></td>
   </tr>
 </table>
 
@@ -441,6 +466,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Thunderbird</strong></td>
     <td>A free and open-source email client from Mozilla with robust features like tabbed email, calendar, and encryption.</td>
     <td><a href="https://www.thunderbird.net/en-US/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>WinSCP</strong></td>
+    <td> A popular open-source SFTP, FTP, WebDAV, and SCP client for secure file transfers on Windows.</td>
+    <td><a href="https://winscp.net/eng/index.php">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>CrystalDiskMark</strong></td>
+    <td>A lightweight benchmarking tool to measure the read and write speeds of storage drives.</td>
+    <td><a href="https://crystalmark.info/en/download/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>OnlyOffice</strong></td>
+    <td>A powerful office suite for documents, spreadsheets, and presentations, with collaboration and cloud features.</td>
+    <td><a href="https://www.onlyoffice.com/default-alt.aspx">Link</a></td>
   </tr>
 </table>
 
