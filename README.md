@@ -512,6 +512,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free, open-source planetarium software that shows a realistic 3D sky in real time, great for stargazing and astronomy.</td>
     <td><a href="https://stellarium.org/en/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Pika</strong></td>
+    <td>A simple macOS color picker app for grabbing, saving, and converting color codes with ease.</td>
+    <td><a href="https://superhighfives.com/pika">Link</a></td>
+  </tr>
 </table>
 
 ## 🖥️🐧 Operating System
