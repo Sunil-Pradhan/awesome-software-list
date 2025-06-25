@@ -72,6 +72,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free, user-friendly video editor for desktop with advanced features like keyframing, effects, and AI tools.</td>
     <td><a href="https://www.capcut.com/tools/desktop-video-editor">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>PotPlayer</strong></td>
+    <td>A highly customizable multimedia player for Windows known for its performance, wide codec support, and advanced features.</td>
+    <td><a href="https://potplayer.daum.net/">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -496,6 +501,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>OnlyOffice</strong></td>
     <td>A powerful office suite for documents, spreadsheets, and presentations, with collaboration and cloud features.</td>
     <td><a href="https://www.onlyoffice.com/default-alt.aspx">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>MultiOS-USB</strong></td>
+    <td>A tool for creating multi-boot USB drives that can hold and boot multiple operating system installers.</td>
+    <td><a href="https://github.com/Mexit/MultiOS-USB/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Stellarium</strong></td>
+    <td>A free, open-source planetarium software that shows a realistic 3D sky in real time, great for stargazing and astronomy.</td>
+    <td><a href="https://stellarium.org/en/">Link</a></td>
   </tr>
 </table>
 
