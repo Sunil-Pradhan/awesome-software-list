@@ -5,18 +5,19 @@ A curated list of interesting and free software tools grouped by category. Most 
 ## Table of Contents
 
 - [📦 Awesome Free Software List](#-awesome-free-software-list)
-	- [Table of Contents](#table-of-contents)
-	- [🎥 Screen Recording](#-screen-recording)
-	- [✏️ Image Tools \& Photo Editing](#️-image-tools--photo-editing)
-	- [🎧 Music Tools \& Audio Editing](#-music-tools--audio-editing)
-	- [📝 Note-Taking \& Education Apps](#-note-taking--education-apps)
-	- [🔐 Privacy \& Security](#-privacy--security)
-	- [🛠️ System Apps](#️-system-apps)
-	- [🖥️🐧 Operating System](#️-operating-system)
-	- [📄 PDF Tools](#-pdf-tools)
-	- [🌐 Browsers](#-browsers)
-	- [✅ How to Contribute](#-how-to-contribute)
-	- [📄 License](#-license)
+  - [Table of Contents](#table-of-contents)
+  - [🎥 Screen Recording](#-screen-recording)
+  - [✏️ Image Tools \& Photo Editing](#️-image-tools--photo-editing)
+  - [🎧 Music Tools \& Audio Editing](#-music-tools--audio-editing)
+  - [📝 Note-Taking \& Education Apps](#-note-taking--education-apps)
+  - [🔐 Privacy \& Security](#-privacy--security)
+  - [🛠️ System Apps](#️-system-apps)
+  - [💻🖱️⌨️ Dev Tools](#️️-dev-tools)
+  - [🖥️🐧 Operating System](#️-operating-system)
+  - [📄 PDF Tools](#-pdf-tools)
+  - [🌐 Browsers](#-browsers)
+  - [✅ How to Contribute](#-how-to-contribute)
+  - [📄 License](#-license)
 
 
 ## 🎥 Screen Recording
@@ -518,6 +519,32 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><a href="https://superhighfives.com/pika">Link</a></td>
   </tr>
 </table>
+
+## 💻🖱️⌨️ Dev Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>VS Code</strong></td>
+    <td>A lightweight yet powerful code editor by Microsoft with support for extensions, debugging, Git, and many languages.</td>
+    <td><a href="https://code.visualstudio.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>TortoiseGit</strong></td>
+    <td>A Windows shell interface for Git that integrates with File Explorer, making version control accessible via right-click menus.</td>
+    <td><a href="https://tortoisegit.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Beyond Compare (Shareware)</strong></td>
+    <td>A file and folder comparison tool that lets you visually compare, merge, and sync files with precision.</td>
+    <td><a href="https://www.scootersoftware.com/">Link</a></td>
+  </tr>
+</table>
+
 
 ## 🖥️🐧 Operating System
 
