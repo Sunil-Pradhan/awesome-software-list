@@ -564,6 +564,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A beginner-friendly Linux distribution designed to look familiar to Windows users and run efficiently.</td>
     <td><a href="https://zorin.com/os/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Winux (Shareware)</strong></td>
+    <td>A lightweight Linux-like operating system designed to run inside Windows, aiming to provide a Unix-like environment without dual-booting.</td>
+    <td><a href="https://winuxos.com/">Link</a></td>
+  </tr>
 </table>
 
 
