@@ -569,6 +569,56 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A lightweight Linux-like operating system designed to run inside Windows, aiming to provide a Unix-like environment without dual-booting.</td>
     <td><a href="https://winuxos.com/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Ubuntu</strong></td>
+    <td>A user-friendly and widely-used Linux distribution based on Debian, ideal for desktops, servers, and beginners.</td>
+    <td><a href="https://ubuntu.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Kali Linux</strong></td>
+    <td>A Debian-based Linux distribution tailored for penetration testing, ethical hacking, and cybersecurity professionals.</td>
+    <td><a href="https://www.kali.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>EndeavourOS</strong></td>
+    <td>An Arch-based Linux distro with a friendly setup, offering a balance of control, performance, and community support.</td>
+    <td><a href="https://endeavouros.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Parrot OS</strong></td>
+    <td>A security-focused Linux distribution designed for penetration testing, forensics, and development.</td>
+    <td><a href="https://parrotsec.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Linux Lite</strong></td>
+    <td>A lightweight and beginner-friendly Linux distro based on Ubuntu, designed to revive older hardware.</td>
+    <td><a href="https://www.linuxliteos.com/index.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Arch Linux</strong></td>
+    <td>A minimalist and flexible Linux distribution aimed at advanced users who want to build their system from the ground up.</td>
+    <td><a href="https://archlinux.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Deepin</strong></td>
+    <td> A visually polished Linux distribution from China, offering a user-friendly desktop experience with its own Deepin Desktop Environment.</td>
+    <td><a href="https://www.deepin.org/index/en">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>NixOS</strong></td>
+    <td>A unique Linux distribution that uses a declarative configuration model and the powerful Nix package manager for reproducible setups.</td>
+    <td><a href="https://nixos.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Garuda Linux</strong></td>
+    <td>An Arch-based distro with a focus on gaming, performance, and stunning visuals, using the Btrfs filesystem by default.</td>
+    <td><a href="https://garudalinux.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Bazzite</strong></td>
+    <td>A gaming-focused Linux distribution built on Fedora and tailored for Steam Deck, PCs, and cloud gaming environments.</td>
+    <td><a href="https://bazzite.gg/">Link</a></td>
+  </tr>
 </table>
 
 
