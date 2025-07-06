@@ -6,7 +6,7 @@ A curated list of interesting and free software tools grouped by category. Most 
 
 - [📦 Awesome Free Software List](#-awesome-free-software-list)
   - [Table of Contents](#table-of-contents)
-  - [🎥 Screen Recording](#-screen-recording)
+  - [🎥 Screen Recording/Video Editor](#-screen-recordingvideo-editor)
   - [✏️ Image Tools \& Photo Editing](#️-image-tools--photo-editing)
   - [🎧 Music Tools \& Audio Editing](#-music-tools--audio-editing)
   - [📝 Note-Taking \& Education Apps](#-note-taking--education-apps)
@@ -20,7 +20,7 @@ A curated list of interesting and free software tools grouped by category. Most 
   - [📄 License](#-license)
 
 
-## 🎥 Screen Recording
+## 🎥 Screen Recording/Video Editor
 
 <table>
   <tr>
@@ -77,6 +77,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>PotPlayer</strong></td>
     <td>A highly customizable multimedia player for Windows known for its performance, wide codec support, and advanced features.</td>
     <td><a href="https://potplayer.daum.net/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Kdenlive</strong></td>
+    <td>A free and open-source video editor with multi-track editing, effects, and transitions, suitable for beginners and pros alike.</td>
+    <td><a href="https://kdenlive.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Cinelerra GG Infinity</strong></td>
+    <td>A powerful video editing and compositing tool for Linux, geared toward professionals with advanced features.</td>
+    <td><a href="https://www.cinelerra-gg.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>SimpleVideoEditor</strong></td>
+    <td>A minimalist, open-source video editor for basic trimming, merging, and re-encoding tasks.</td>
+    <td><a href="https://github.com/Maxhem2/SVESimpleVideoEditor">Link</a></td>
   </tr>
 </table>
 
@@ -198,6 +213,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Adds right-click menu options in Windows Explorer for quick image preview, conversion, and resizing.</td>
     <td><a href="https://www.xnview.com/en/xnshell/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Image Uploader</strong></td>
+    <td>A handy tool to upload images to various hosting services with batch processing, URL generation, and automation support.</td>
+    <td><a href="https://svistunov.dev/imageuploader">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Color Picker</strong></td>
+    <td>A lightweight, open-source color picker utility for Windows, useful for designers and developers.</td>
+    <td><a href="https://svistunov.dev/colorpicker">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -252,6 +277,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Vitomu</strong></td>
     <td>A minimal Windows app to extract audio from video files using FFmpeg, with a simple drag-and-drop interface.</td>
     <td><a href="https://github.com/digimezzo/vitomu">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Qmmp</strong></td>
+    <td>A lightweight, Winamp-like music player for Linux and Windows, supporting multiple audio formats and visualizations.</td>
+    <td><a href="https://qmmp.ylsoftware.com/">Link</a></td>
   </tr>
 </table>
 
@@ -518,6 +548,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A simple macOS color picker app for grabbing, saving, and converting color codes with ease.</td>
     <td><a href="https://superhighfives.com/pika">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Explzh</strong></td>
+    <td>A free archive manager for Windows supporting many formats like ZIP, RAR, and ISO, with a simple interface and encryption support.</td>
+    <td><a href="https://www.ponsoftware.com/en/en.htm">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Bulk Crap Uninstaller</strong></td>
+    <td>An advanced uninstaller that helps remove many unwanted programs and leftovers in bulk, even without installers.</td>
+    <td><a href="https://www.bcuninstaller.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Zero Install</strong></td>
+    <td>A decentralized cross-platform software installer that lets you run and manage apps without installation or root access.</td>
+    <td><a href="https://0install.net/">Link</a></td>
+  </tr>
 </table>
 
 ## 💻🖱️⌨️ Dev Tools
@@ -542,6 +587,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Beyond Compare (Shareware)</strong></td>
     <td>A file and folder comparison tool that lets you visually compare, merge, and sync files with precision.</td>
     <td><a href="https://www.scootersoftware.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Bruno</strong></td>
+    <td>A modern, lightweight open-source API client designed for testing and debugging HTTP APIs, alternative to Postman.</td>
+    <td><a href="https://www.usebruno.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>OpenHashTab</strong></td>
+    <td>A Windows shell extension that adds a file hash calculator tab to the file properties window.</td>
+    <td><a href="https://github.com/namazso/OpenHashTab">Link</a></td>
   </tr>
 </table>
 
@@ -619,6 +674,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A gaming-focused Linux distribution built on Fedora and tailored for Steam Deck, PCs, and cloud gaming environments.</td>
     <td><a href="https://bazzite.gg/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Rocky Linux</strong></td>
+    <td>A community-driven enterprise OS built to be 1:1 binary compatible with RHEL, ideal for servers and stability-focused use.</td>
+    <td><a href="https://rockylinux.org/">Link</a></td>
+  </tr>
 </table>
 
 
@@ -659,6 +719,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>PDF Arranger</strong></td>
     <td>A small Python-Qt app to rearrange, merge, rotate, or split PDF files easily.</td>
     <td><a href="https://github.com/pdfarranger/pdfarranger">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Minimal PDF Compress</strong></td>
+    <td>A minimal tool for compressing PDF files without losing quality, aimed at simplicity and efficiency.</td>
+    <td><a href="https://github.com/deminimis/minimalpdfcompress/">Link</a></td>
   </tr>
 </table>
 
