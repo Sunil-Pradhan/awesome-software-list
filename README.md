@@ -93,6 +93,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A minimalist, open-source video editor for basic trimming, merging, and re-encoding tasks.</td>
     <td><a href="https://github.com/Maxhem2/SVESimpleVideoEditor">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>VokoscreenNG</strong></td>
+    <td>A simple and effective screen recording tool for Linux and Windows, ideal for tutorials and presentations.</td>
+    <td><a href="https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Cutcon</strong></td>
+    <td>A terminal-based video converter and cutter with a clean interface, built using FFmpeg for speed and simplicity.</td>
+    <td><a href="https://github.com/mahozad/cutcon">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -283,6 +293,12 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A lightweight, Winamp-like music player for Linux and Windows, supporting multiple audio formats and visualizations.</td>
     <td><a href="https://qmmp.ylsoftware.com/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>eSound Music</strong></td>
+    <td>A cross-platform music streaming app focused on collaborative playlists and social listening experiences.</td>
+    <td><a href="https://esound.app/">Link</a></td>
+  </tr>
+
 </table>
 
 ## 📝 Note-Taking & Education Apps
@@ -563,6 +579,26 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A decentralized cross-platform software installer that lets you run and manage apps without installation or root access.</td>
     <td><a href="https://0install.net/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Windows Firewall Control</strong></td>
+    <td>Enhances the default Windows Firewall with more granular control and convenient access to rule management.</td>
+    <td><a href="https://www.binisoft.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Task Automator (Shareware)</strong></td>
+    <td>A Windows tool to automate repetitive system tasks and actions with a user-friendly interface.</td>
+    <td><a href="https://www.privacyroot.com/software/website/freeware-en-about-atmt.html?1752872531">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>ISO Image Writer</strong></td>
+    <td>A KDE tool for writing ISO images to USB drives, commonly used to create bootable installation media.</td>
+    <td><a href="https://apps.kde.org/isoimagewriter/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Network Traffic View</strong></td>
+    <td>A lightweight network monitor by NirSoft that shows detailed traffic statistics for each process or connection.</td>
+    <td><a href="https://www.nirsoft.net/utils/network_traffic_view.html">Link</a></td>
+  </tr>
 </table>
 
 ## 💻🖱️⌨️ Dev Tools
@@ -678,6 +714,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Rocky Linux</strong></td>
     <td>A community-driven enterprise OS built to be 1:1 binary compatible with RHEL, ideal for servers and stability-focused use.</td>
     <td><a href="https://rockylinux.org/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>ReactOS</strong></td>
+    <td>An open-source operating system aiming for full compatibility with Windows apps and drivers, ideal for legacy support.</td>
+    <td><a href="https://reactos.org/gallery/">Link</a></td>
   </tr>
 </table>
 
