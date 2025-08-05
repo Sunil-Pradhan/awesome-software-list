@@ -233,6 +233,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A lightweight, open-source color picker utility for Windows, useful for designers and developers.</td>
     <td><a href="https://svistunov.dev/colorpicker">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Flameshot</strong></td>
+    <td>A powerful, open-source screenshot tool with annotation features, customizable UI, and easy sharing options.</td>
+    <td><a href="https://flameshot.org/">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -598,6 +603,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Network Traffic View</strong></td>
     <td>A lightweight network monitor by NirSoft that shows detailed traffic statistics for each process or connection.</td>
     <td><a href="https://www.nirsoft.net/utils/network_traffic_view.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>NirLauncher</strong></td>
+    <td>A portable suite of 200+ lightweight utilities from NirSoft for Windows, covering system, network, and security tasks.</td>
+    <td><a href="https://launcher.nirsoft.net/">Link</a></td>
   </tr>
 </table>
 
