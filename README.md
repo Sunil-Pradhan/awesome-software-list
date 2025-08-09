@@ -103,6 +103,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A terminal-based video converter and cutter with a clean interface, built using FFmpeg for speed and simplicity.</td>
     <td><a href="https://github.com/mahozad/cutcon">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>SplitCam</strong></td>
+    <td>A webcam streaming software that allows video splitting, effects, and streaming to multiple platforms simultaneously.</td>
+    <td><a href="https://splitcam.com/">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -385,9 +390,9 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><a href="https://www.wireshark.org/">Link</a></td>
   </tr>
   <tr>
-    <td><strong>Free Download Manager</strong></td>
-    <td>A free and versatile download accelerator and organizer that supports torrents and video downloads.</td>
-    <td><a href="https://www.freedownloadmanager.org/">Link</a></td>
+    <td><strong>yEd – Graph Editor</strong></td>
+    <td>A powerful diagramming tool for creating flowcharts, network layouts, and other graph structures with automatic layout algorithms.</td>
+    <td><a href="https://www.yworks.com/products/yed">Link</a></td>
   </tr>
 </table>
 
@@ -608,6 +613,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>NirLauncher</strong></td>
     <td>A portable suite of 200+ lightweight utilities from NirSoft for Windows, covering system, network, and security tasks.</td>
     <td><a href="https://launcher.nirsoft.net/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Free Download Manager</strong></td>
+    <td>A free and versatile download accelerator and organizer that supports torrents and video downloads.</td>
+    <td><a href="https://www.freedownloadmanager.org/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Tixati</strong></td>
+    <td>A free, ad-free BitTorrent client with advanced bandwidth management, charts, and DHT support.</td>
+    <td><a href="https://tixati.com/">Link</a></td>
   </tr>
 </table>
 
