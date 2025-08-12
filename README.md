@@ -344,6 +344,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A simple and easy-to-use note-taking app for Windows that stores your notes locally.</td>
     <td><a href="https://github.com/digimezzo/knowte">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>yEd – Graph Editor</strong></td>
+    <td>A powerful diagramming tool for creating flowcharts, network layouts, and other graph structures with automatic layout algorithms.</td>
+    <td><a href="https://www.yworks.com/products/yed">Link</a></td>
+  </tr>
 </table>
 
 ## 🔐 Privacy & Security
@@ -390,9 +395,9 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><a href="https://www.wireshark.org/">Link</a></td>
   </tr>
   <tr>
-    <td><strong>yEd – Graph Editor</strong></td>
-    <td>A powerful diagramming tool for creating flowcharts, network layouts, and other graph structures with automatic layout algorithms.</td>
-    <td><a href="https://www.yworks.com/products/yed">Link</a></td>
+    <td><strong>Simplewall</strong></td>
+    <td>A lightweight Windows firewall and application control tool that lets you easily block unwanted network activity.</td>
+    <td><a href="https://github.com/henrypp/simplewall">Link</a></td>
   </tr>
 </table>
 
@@ -623,6 +628,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Tixati</strong></td>
     <td>A free, ad-free BitTorrent client with advanced bandwidth management, charts, and DHT support.</td>
     <td><a href="https://tixati.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>MEmu Android Emulator</strong></td>
+    <td>A fast and feature-rich Android emulator for Windows that lets you run mobile apps and games on your PC with customizable controls.</td>
+    <td><a href="https://www.memuplay.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>PeaZip</strong></td>
+    <td>A free, open-source file archiver that supports over 200 formats, offering encryption, compression, and file management tools.</td>
+    <td><a href="https://peazip.github.io/">Link</a></td>
   </tr>
 </table>
 
