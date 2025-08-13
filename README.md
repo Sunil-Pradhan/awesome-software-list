@@ -399,6 +399,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A lightweight Windows firewall and application control tool that lets you easily block unwanted network activity.</td>
     <td><a href="https://github.com/henrypp/simplewall">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>NETworkManager</strong></td>
+    <td>An all-in-one open-source network management tool with features like IP scanning, port scanning, traceroute, and remote desktop.</td>
+    <td><a href="https://borntoberoot.net/NETworkManager/">Link</a></td>
+  </tr>
 </table>
 
 ## 🛠️ System Apps
@@ -638,6 +643,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>PeaZip</strong></td>
     <td>A free, open-source file archiver that supports over 200 formats, offering encryption, compression, and file management tools.</td>
     <td><a href="https://peazip.github.io/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Downer</strong></td>
+    <td>Downer is a utility that can download (and convert to mp3), media from almost every multimedia content site on the net.</td>
+    <td><a href="http://www.noembryo.com/apps.php?downer">Link</a></td>
   </tr>
 </table>
 
