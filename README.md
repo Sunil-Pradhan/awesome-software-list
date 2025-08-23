@@ -243,6 +243,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A powerful, open-source screenshot tool with annotation features, customizable UI, and easy sharing options.</td>
     <td><a href="https://flameshot.org/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>RapidRAW</strong></td>
+    <td>A GPU-accelerated tool for ultra-fast viewing of RAW images.</td>
+    <td><a href="https://github.com/CyberTimon/RapidRAW">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -308,6 +313,17 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A cross-platform music streaming app focused on collaborative playlists and social listening experiences.</td>
     <td><a href="https://esound.app/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Phiola</strong></td>
+    <td>A lightweight, cross-platform audio player with modern codec support and simple design.</td>
+    <td><a href="https://github.com/stsaz/phiola">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Muffon</strong></td>
+    <td>A multi-source music streaming desktop app that integrates services like YouTube, SoundCloud, and Spotify.</td>
+    <td><a href="https://github.com/staniel359/muffon/">Link</a></td>
+  </tr>
+
 
 </table>
 
@@ -816,6 +832,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A minimal tool for compressing PDF files without losing quality, aimed at simplicity and efficiency.</td>
     <td><a href="https://github.com/deminimis/minimalpdfcompress/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>PDF Shaper</strong></td>
+    <td>A Windows program to convert, split, merge, encrypt, and optimize PDF files.</td>
+    <td><a href="https://www.pdfshaper.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Caly PDF Reader</strong></td>
+    <td>An open-source, fast, and lightweight PDF reader.</td>
+    <td><a href="https://github.com/CalyPdf/Caly">Link</a></td>
+  </tr>
 </table>
 
 ## 🌐 Browsers
@@ -850,6 +876,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Zen Browser</strong></td>
     <td>A minimalist and privacy-friendly web browser designed for distraction-free and secure browsing.</td>
     <td><a href="https://zen-browser.app/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Floorp</strong></td>
+    <td>A privacy-focused, customizable web browser based on Firefox, designed for power users.</td>
+    <td><a href="https://floorp.app/en-US">Link</a></td>
   </tr>
 </table>
 
