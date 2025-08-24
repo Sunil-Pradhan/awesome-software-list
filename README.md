@@ -108,6 +108,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A webcam streaming software that allows video splitting, effects, and streaming to multiple platforms simultaneously.</td>
     <td><a href="https://splitcam.com/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Kalmuri</strong></td>
+    <td>A portable screen capture utility for Windows with multiple capture modes.</td>
+    <td><a href="https://global.kilho.net/kalmuri">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -247,6 +252,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>RapidRAW</strong></td>
     <td>A GPU-accelerated tool for ultra-fast viewing of RAW images.</td>
     <td><a href="https://github.com/CyberTimon/RapidRAW">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>ImageConverter</strong></td>
+    <td>A simple utility to batch convert images between different formats.</td>
+    <td><a href="https://global.kilho.net/imageconverter">Link</a></td>
   </tr>
 </table>
 
@@ -664,6 +674,36 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Downer</strong></td>
     <td>Downer is a utility that can download (and convert to mp3), media from almost every multimedia content site on the net.</td>
     <td><a href="http://www.noembryo.com/apps.php?downer">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Ventoy</strong></td>
+    <td>A bootable USB solution that lets you copy multiple ISO/WIM/IMG files and boot directly from them.</td>
+    <td><a href="https://www.ventoy.net/en/index.html">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Flyoobe</strong></td>
+    <td>A Windows tool that lets you relaunch the Out-of-Box Experience (OOBE) setup screen.</td>
+    <td><a href="https://github.com/builtbybel/Flyby11/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>KTimer</strong></td>
+    <td>A lightweight Windows timer app for scheduling shutdown, restart, or alerts.</td>
+    <td><a href="https://global.kilho.net/ktimer">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>SecretDNS</strong></td>
+    <td>A DNS changer tool for Windows to switch and secure DNS settings easily.</td>
+    <td><a href="https://global.kilho.net/secretdns">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>MemoryCleaner</strong></td>
+    <td>A Windows tool that frees unused memory to improve system performance.</td>
+    <td><a href="https://global.kilho.net/memorycleaner">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Secret Video Downloader</strong></td>
+    <td>A downloader for saving online videos from various platforms.</td>
+    <td><a href="https://global.kilho.net/secretvideo">Link</a></td>
   </tr>
 </table>
 
