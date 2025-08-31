@@ -258,6 +258,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A simple utility to batch convert images between different formats.</td>
     <td><a href="https://global.kilho.net/imageconverter">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>NeeView</strong></td>
+    <td>An advanced image viewer for Windows with tabbed browsing and flexible customization.</td>
+    <td><a href="https://neelabo.github.io/NeeView/en-us/">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -333,8 +338,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A multi-source music streaming desktop app that integrates services like YouTube, SoundCloud, and Spotify.</td>
     <td><a href="https://github.com/staniel359/muffon/">Link</a></td>
   </tr>
-
-
+	<tr>
+    <td><strong>DeskFX</strong></td>
+    <td>An audio enhancer that adds sound effects and improves audio quality on Windows.</td>
+    <td><a href="https://www.nchsoftware.com/deskfx/index.html">Link</a></td>
+  </tr>
 </table>
 
 ## 📝 Note-Taking & Education Apps
@@ -374,6 +382,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>yEd – Graph Editor</strong></td>
     <td>A powerful diagramming tool for creating flowcharts, network layouts, and other graph structures with automatic layout algorithms.</td>
     <td><a href="https://www.yworks.com/products/yed">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>draw.io</strong></td>
+    <td>A free online/Offline diagramming tool for creating flowcharts, mind maps, and network diagrams.</td>
+    <td><a href="https://www.drawio.com/">Link</a></td>
   </tr>
 </table>
 
@@ -429,6 +442,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>NETworkManager</strong></td>
     <td>An all-in-one open-source network management tool with features like IP scanning, port scanning, traceroute, and remote desktop.</td>
     <td><a href="https://borntoberoot.net/NETworkManager/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>W10Privacy</strong></td>
+    <td>A Windows tool to manage and tweak privacy-related settings easily.</td>
+    <td><a href="https://www.w10privacy.de/english-home/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>VPNLY</strong></td>
+    <td>A VPN service that encrypts internet traffic and provides secure, anonymous browsing.</td>
+    <td><a href="https://vpnly.com/">Link</a></td>
   </tr>
 </table>
 
