@@ -343,6 +343,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>An audio enhancer that adds sound effects and improves audio quality on Windows.</td>
     <td><a href="https://www.nchsoftware.com/deskfx/index.html">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Volume2</strong></td>
+    <td>A customizable Windows volume control app with hotkeys, mouse control, and scheduling.</td>
+    <td><a href="https://github.com/irzyxa/Volume2/">Link</a></td>
+  </tr>
 </table>
 
 ## 📝 Note-Taking & Education Apps
@@ -727,6 +732,26 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Secret Video Downloader</strong></td>
     <td>A downloader for saving online videos from various platforms.</td>
     <td><a href="https://global.kilho.net/secretvideo">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Bulk Rename Utility</strong></td>
+    <td>A powerful Windows tool for renaming multiple files and folders with advanced rules.</td>
+    <td><a href="https://www.bulkrenameutility.co.uk/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>HopToDesk</strong></td>
+    <td>A free, open-source remote desktop software for secure screen sharing and support.</td>
+    <td><a href="https://www.hoptodesk.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>3uTools</strong></td>
+    <td>An all-in-one iOS device management tool for flashing, jailbreaking, and file management.</td>
+    <td><a href="https://www.3u.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>NanaZip</strong></td>
+    <td>A modern file archiver for Windows based on 7-Zip with better integration and UI.</td>
+    <td><a href="https://github.com/M2Team/NanaZip">Link</a></td>
   </tr>
 </table>
 
