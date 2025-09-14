@@ -263,6 +263,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>An advanced image viewer for Windows with tabbed browsing and flexible customization.</td>
     <td><a href="https://neelabo.github.io/NeeView/en-us/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Sunny Capturer</strong></td>
+    <td>A lightweight open-source screen capture tool for Windows.</td>
+    <td><a href="https://github.com/XMuli/SunnyCapturer">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>XMedia Recode</strong></td>
+    <td>A free video and audio transcoder supporting many formats and devices.</td>
+    <td><a href="https://www.xmedia-recode.de/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Hand Brake</strong></td>
+    <td>An open-source video converter for compressing and converting videos into different formats.</td>
+    <td><a href="https://handbrake.fr/">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -752,6 +767,31 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>NanaZip</strong></td>
     <td>A modern file archiver for Windows based on 7-Zip with better integration and UI.</td>
     <td><a href="https://github.com/M2Team/NanaZip">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Internet Download Accelerator</strong></td>
+    <td>A download manager that speeds up file downloads and organizes them efficiently.</td>
+    <td><a href="https://westbyte.com/ida/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Quick Installer</strong></td>
+    <td>A utility for batch-installing multiple apps quickly on Windows.</td>
+    <td><a href="https://www.quickinstaller.net/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Sniffnet</strong></td>
+    <td>An open-source network monitoring tool to track and analyze internet traffic.</td>
+    <td><a href="https://github.com/GyulyVGC/sniffnet">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Money Manager Ex</strong></td>
+    <td>A free, open-source personal finance software for budgeting and expense tracking.</td>
+    <td><a href="https://moneymanagerex.org/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Universal USB Installer</strong></td>
+    <td>A tool for creating bootable USB drives with Linux distributions.</td>
+    <td><a href="https://pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/">Link</a></td>
   </tr>
 </table>
 
