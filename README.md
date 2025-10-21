@@ -113,6 +113,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A portable screen capture utility for Windows with multiple capture modes.</td>
     <td><a href="https://global.kilho.net/kalmuri">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>VirtualDub</strong></td>
+    <td>An open-source video capture and editing software for quick, linear video processing.</td>
+    <td><a href="https://github.com/v0lt/VirtualDub2">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -277,6 +282,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Hand Brake</strong></td>
     <td>An open-source video converter for compressing and converting videos into different formats.</td>
     <td><a href="https://handbrake.fr/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>reaConverter Lite</strong></td>
+    <td>A free image converter supporting batch processing and multiple file formats.</td>
+    <td><a href="https://www.reaconverter.com/free/">Link</a></td>
   </tr>
 </table>
 
@@ -793,6 +803,21 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A tool for creating bootable USB drives with Linux distributions.</td>
     <td><a href="https://pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Core Temp</strong></td>
+    <td>A lightweight program that monitors CPU temperature and system information in real time.</td>
+    <td><a href="https://www.alcpu.com/CoreTemp/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>FlashBoot</strong></td>
+    <td>A Windows utility to create bootable USB drives or clone entire systems to USB.</td>
+    <td><a href="https://www.prime-expert.com/flashboot/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>MultiDrive</strong></td>
+    <td>A tool that allows managing and accessing multiple cloud storage accounts in one place.</td>
+    <td><a href="https://multidrive.io/">Link</a></td>
+  </tr>
 </table>
 
 ## 💻🖱️⌨️ Dev Tools
@@ -827,6 +852,26 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>OpenHashTab</strong></td>
     <td>A Windows shell extension that adds a file hash calculator tab to the file properties window.</td>
     <td><a href="https://github.com/namazso/OpenHashTab">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>GitHub Desktop</strong></td>
+    <td>An official Git client that simplifies managing repositories with a user-friendly interface.</td>
+    <td><a href="https://github.com/apps/desktop">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Gittyup</strong></td>
+    <td>A modern, open-source Git GUI client focused on speed and ease of use.<td>
+    <td><a href="https://github.com/Murmele/Gittyup">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>RelaGit</strong></td>
+    <td>A lightweight Git client offering clean UI and intuitive commit and branch management.</td>
+    <td><a href="https://rela.dev/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Gitnuro</strong></td>
+    <td>A fast, open-source Git client designed with simplicity and performance in mind.</td>
+    <td><a href="https://gitnuro.com/">Link</a></td>
   </tr>
 </table>
 
@@ -1009,6 +1054,26 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Floorp</strong></td>
     <td>A privacy-focused, customizable web browser based on Firefox, designed for power users.</td>
     <td><a href="https://floorp.app/en-US">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Helium Browser</strong></td>
+    <td>A privacy-focused, AI-enhanced web browser designed for productivity and speed.</td>
+    <td><a href="https://helium.computer/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Comet</strong></td>
+    <td>An AI-powered search and research assistant built by Perplexity for deeper knowledge discovery.</td>
+    <td><a href="https://www.perplexity.ai/comet">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Ulaa Browser</strong></td>
+    <td>A secure, privacy-first web browser developed by Zoho with tracking protection.</td>
+    <td><a href="https://ulaa.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>BrowserOS</strong></td>
+    <td>A web-based operating system that runs apps and tools directly inside your browser.</td>
+    <td><a href="https://www.browseros.com/">Link</a></td>
   </tr>
 </table>
 
