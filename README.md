@@ -288,6 +288,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free image converter supporting batch processing and multiple file formats.</td>
     <td><a href="https://www.reaconverter.com/free/">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>HolzShots</strong></td>
+    <td>A simple screenshot tool for Windows that lets you quickly capture and share images.</td>
+    <td><a href="https://github.com/nikeee/HolzShots">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -1015,6 +1020,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>An open-source, fast, and lightweight PDF reader.</td>
     <td><a href="https://github.com/CalyPdf/Caly">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Minimal PDF Compress</strong></td>
+    <td>A lightweight, open-source tool to compress PDF files efficiently without losing quality.</td>
+    <td><a href="https://github.com/deminimis/minimalpdfcompress/">Link</a></td>
+  </tr>
 </table>
 
 ## 🌐 Browsers
@@ -1074,6 +1084,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>BrowserOS</strong></td>
     <td>A web-based operating system that runs apps and tools directly inside your browser.</td>
     <td><a href="https://www.browseros.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>ChatGPT Atlas</strong></td>
+    <td>An interactive directory by OpenAI showcasing global ChatGPT use cases, apps, and integrations.</td>
+    <td><a href="https://chatgpt.com/atlas">Link</a></td>
   </tr>
 </table>
 
