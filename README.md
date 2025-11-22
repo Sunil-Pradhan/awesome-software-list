@@ -118,6 +118,16 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>An open-source video capture and editing software for quick, linear video processing.</td>
     <td><a href="https://github.com/v0lt/VirtualDub2">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>LosslessCut</strong></td>
+    <td>A fast, lossless video/audio cutter that trims and extracts clips without re-encoding.</td>
+    <td><a href="https://github.com/mifi/lossless-cut">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Video Shaper</strong></td>
+    <td>A simple tool to convert, resize, and burn videos to DVD.</td>
+    <td><a href="https://www.glorylogic.com/video-shaper.html">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
@@ -293,6 +303,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A simple screenshot tool for Windows that lets you quickly capture and share images.</td>
     <td><a href="https://github.com/nikeee/HolzShots">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Affinity</strong></td>
+    <td>A suite of professional creative apps for photo editing, vector design, and page layout.</td>
+    <td><a href="https://www.affinity.studio/">Link</a></td>
+  </tr>
 </table>
 
 ## 🎧 Music Tools & Audio Editing
@@ -377,6 +392,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>Volume2</strong></td>
     <td>A customizable Windows volume control app with hotkeys, mouse control, and scheduling.</td>
     <td><a href="https://github.com/irzyxa/Volume2/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Helium Converter</strong></td>
+    <td>A tool for converting music database files to work with Helium music manager.</td>
+    <td><a href="https://www.imploded.com/heliumconverter">Link</a></td>
   </tr>
 </table>
 
@@ -487,6 +507,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>VPNLY</strong></td>
     <td>A VPN service that encrypts internet traffic and provides secure, anonymous browsing.</td>
     <td><a href="https://vpnly.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Password Safe</strong></td>
+    <td>An open-source password manager that securely stores and organizes your credentials.</td>
+    <td><a href="https://pwsafe.org/">Link</a></td>
   </tr>
 </table>
 
@@ -823,6 +848,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A tool that allows managing and accessing multiple cloud storage accounts in one place.</td>
     <td><a href="https://multidrive.io/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Transmission</strong></td>
+    <td>A lightweight, open-source BitTorrent client known for its clean interface and low resource usage.</td>
+    <td><a href="https://transmissionbt.com/">Link</a></td>
+  </tr>
 </table>
 
 ## 💻🖱️⌨️ Dev Tools
@@ -1025,10 +1055,14 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A lightweight, open-source tool to compress PDF files efficiently without losing quality.</td>
     <td><a href="https://github.com/deminimis/minimalpdfcompress/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>PDFgear</strong></td>
+    <td>A free PDF editor and converter with tools for editing, merging, signing, and annotating PDFs.</td>
+    <td><a href="https://www.pdfgear.com/">Link</a></td>
+  </tr>
 </table>
 
 ## 🌐 Browsers
-
 <table>
   <tr>
     <th>Name</th>
@@ -1089,6 +1123,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>ChatGPT Atlas</strong></td>
     <td>An interactive directory by OpenAI showcasing global ChatGPT use cases, apps, and integrations.</td>
     <td><a href="https://chatgpt.com/atlas">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Floorp Browser</strong></td>
+    <td>A privacy-focused, customizable browser based on Firefox.</td>
+    <td><a href="https://floorp.app/en-US">Link</a></td>
   </tr>
 </table>
 
