@@ -128,6 +128,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A simple tool to convert, resize, and burn videos to DVD.</td>
     <td><a href="https://www.glorylogic.com/video-shaper.html">Link</a></td>
   </tr>
+	<tr>
+    <td><strong>Cyber Collector</strong></td>
+    <td>Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. <a href="https://cybercollector.hitkey.io">Website</a></td>
+    <td><a href="https://t.me/cybercollectorbot">Link</a></td>
+  </tr>
 </table>
 
 ## ✏️ Image Tools & Photo Editing
