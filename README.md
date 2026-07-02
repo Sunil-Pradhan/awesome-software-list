@@ -1129,6 +1129,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A privacy-focused, customizable browser based on Firefox.</td>
     <td><a href="https://floorp.app/en-US">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Nav0</strong></td>
+    <td>A minimal, privacy-focused desktop browser built on Electron/Chromium with zero telemetry, tracking, or data collection.</td>
+    <td><a href="https://nav0.org/">Link</a></td>
+  </tr>
 </table>
 
 ## ✅ How to Contribute
