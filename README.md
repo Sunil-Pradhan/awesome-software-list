@@ -1060,6 +1060,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free PDF editor and converter with tools for editing, merging, signing, and annotating PDFs.</td>
     <td><a href="https://www.pdfgear.com/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>gottrix</strong></td>
+    <td>Free browser-based PDF tools (merge, split, compress, convert, OCR, redact, sign, edit) plus image, audio, video and data converters -- 500+ tools total, all processing runs client-side via WebAssembly, no uploads, no sign-up. Closed-source, free to use, 25+ languages.</td>
+    <td><a href="https://gottrix.app">Link</a></td>
+  </tr>
 </table>
 
 ## 🌐 Browsers
