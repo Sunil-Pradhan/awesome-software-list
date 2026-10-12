@@ -10,6 +10,7 @@ A curated list of interesting and free software tools grouped by category. Most 
   - [✏️ Image Tools \& Photo Editing](#️-image-tools--photo-editing)
   - [🎧 Music Tools \& Audio Editing](#-music-tools--audio-editing)
   - [📝 Note-Taking \& Education Apps](#-note-taking--education-apps)
+  - [Content Creation \& Research Apps](#content-creation--research-apps)
   - [🔐 Privacy \& Security](#-privacy--security)
   - [🛠️ System Apps](#️-system-apps)
   - [💻🖱️⌨️ Dev Tools](#️️-dev-tools)
@@ -442,6 +443,26 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td><strong>draw.io</strong></td>
     <td>A free online/Offline diagramming tool for creating flowcharts, mind maps, and network diagrams.</td>
     <td><a href="https://www.drawio.com/">Link</a></td>
+  </tr>
+</table>
+
+## Content Creation & Research Apps
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>WarmQuant</strong></td>
+    <td>An AI-assisted English writing app for turning notes into editable drafts with writing angles and author/reader personas. The free tier allows 10 generations per day; paid upgrades are optional.</td>
+    <td><a href="https://warmquant.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>WeWorkBuddy</strong></td>
+    <td>A source-linked topic-research workspace for AI creators. Free Explorer supports five saved topics, twenty research tasks and three assessments per calendar month, with source observations and exports; it has no AI writing engine or automated forecasts.</td>
+    <td><a href="https://weworkbuddy.com/">Link</a></td>
   </tr>
 </table>
 
