@@ -323,6 +323,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>Ocenaudio is a free, cross-platform audio editor available for Windows, macOS, and Linux, offering a simple and intuitive interface with essential editing tools. It supports various audio formats and provides features like effects, filters, and real-time preview.</td>
     <td><a href="https://www.ocenaudio.com/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>QuietTake Noise Remover</strong></td>
+    <td>Free browser-local RNNoise speech cleanup, original/cleaned playback and WAV export, without signup or audio upload; up to 50 MB and five minutes per file.</td>
+    <td><a href="https://noiseremover.site/">Link</a></td>
+  </tr>
 	<tr>
     <td><strong>SoundSwitch</strong></td>
     <td>SoundSwitch is a free Windows utility that lets you quickly switch between audio devices using customizable hotkeys, with support for both playback and recording devices. It also offers notification options, including toast notifications and custom sounds, to alert you when the active device changes.</td>
