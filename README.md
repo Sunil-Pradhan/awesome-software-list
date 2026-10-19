@@ -1060,6 +1060,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A free PDF editor and converter with tools for editing, merging, signing, and annotating PDFs.</td>
     <td><a href="https://www.pdfgear.com/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Glim</strong></td>
+    <td>A free, MIT-licensed macOS file viewer with read-only PDF previews alongside Markdown, source code, images, JSON and CSV.</td>
+    <td><a href="https://github.com/NeoPanic/Glim">Link</a></td>
+  </tr>
 </table>
 
 ## 🌐 Browsers
