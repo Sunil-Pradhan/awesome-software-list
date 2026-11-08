@@ -853,6 +853,12 @@ A curated list of interesting and free software tools grouped by category. Most 
     <td>A lightweight, open-source BitTorrent client known for its clean interface and low resource usage.</td>
     <td><a href="https://transmissionbt.com/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>LatchLayout</strong></td>
+    <td>Free, MIT-licensed Windows 11 workspace launcher with configurable hold shortcuts, browser profiles, URLs, and per-window display layouts (preview).</td>
+    <td><a href="https://github.com/stanczykwyatt/latchlayout">Link</a></td>
+  </tr>
+
 </table>
 
 ## 💻🖱️⌨️ Dev Tools
