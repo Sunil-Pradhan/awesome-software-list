@@ -29,6 +29,11 @@ A curated list of interesting and free software tools grouped by category. Most 
     <th>Link</th>
   </tr>
   <tr>
+    <td><strong>Vertov</strong></td>
+    <td>Browser screen recorder with transcript editing and share links. Offers a free hosted plan and an open-source self-hosted edition.</td>
+    <td><a href="https://vertov.app/">Link</a></td>
+  </tr>
+  <tr>
     <td><strong>OBS Studio</strong></td>
     <td>Open-source software for video recording and live streaming. Works on Windows, macOS, and Linux.</td>
     <td><a href="https://obsproject.com">Link</a></td>
